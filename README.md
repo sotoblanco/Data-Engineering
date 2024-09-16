@@ -1,6 +1,9 @@
 # Data Engineering Study Group  
 **For the Data Engineering Specialization by Deeplearning AI**
 
+<img src="https://github.com/user-attachments/assets/0eef875c-5bd8-4cb8-a25a-c2e93f3c195a" alt="Alt text" style="width:800px;height:600px;">
+
+
 In this study group, we will follow the principles of *"learning how to learn"* by Barbara Oakley, along with other proven strategies for human-learning. Our goal is to help you develop strong data engineering and create an environment to help you to stay on track.
 
 Each week, we will set specific goals and challenges to be completed. These challenges will be graded, and your scores will be displayed on a leaderboard, both here and in the Deeplearning AI community. This will allow you to track your consistency, showcase your skills, and demonstrate your abilities beyond just earning a certification.
@@ -27,7 +30,7 @@ For your second challenge, I want you to **build your dream resume**—the one t
 
 After you complete the course, we’ll revisit this dream resume and see how close you've come, and what has changed.
 
-[This is mine inspirational resume](https://docs.google.com/document/d/1XYbNwrMBB5xfgXc1Ktfs1RORqEyqyHcA/edit)
+[This is my inspirational resume](https://docs.google.com/document/d/1XYbNwrMBB5xfgXc1Ktfs1RORqEyqyHcA/edit)
 
 ### Weekly Learning Approach:
 
@@ -54,4 +57,6 @@ The study group session will have four major components
 - **7 "Learning in Public" Links**
 - **GitHub Repository Link**
 - **Peer Question Answering** (bonus points)
+
+[First week homework](https://forms.gle/5TDhAScWKQM63rGF9)
 
