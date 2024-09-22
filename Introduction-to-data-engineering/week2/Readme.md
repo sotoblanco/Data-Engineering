@@ -9,7 +9,7 @@ Source systems are mainly on the software engineering roles and out of reach for
 
 Source systems came from different places, from APIs to Iot, as it is maintained by software engineers you most work directly with them to understand how the system work and the implications in your downstream use cases
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 ### Ingestion
 
@@ -19,7 +19,7 @@ Moving raw data from source systems into your data pipeline for further processi
 
 There are different ways to approach this, it can be Batch ingestion in which you get data from a predetermined time interval and ingest into your system specially when you have downstream use cases such as analytics and ML
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 **Streaming ingestion**: the data becomes available shortly after it is produced in continuous real-time ingestion. 
 
@@ -34,7 +34,7 @@ In your DE work you’ll need to work with storage to have a place for your data
 > The bottom layer of the hierarchy consists of the raw storage ingredients since all storage solutions are built on top of the physical ingredients like SSD and magnetic disks, along with processes like networking, serialization, and compression. The middle layer consists of storage systems like databases and object storage that are built on top of the raw ingredients. Then the top layer consists of the these storage systems arranged into storage abstractions like data warehouses, data lakes, and data lakehouses.
 > 
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 ### Queries, Modeling, and Transformation
 
