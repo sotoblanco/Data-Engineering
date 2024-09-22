@@ -8,7 +8,7 @@ In this study group, we will follow the principles of *"learning how to learn"* 
 
 Each week, we will set specific goals and challenges to be completed. These challenges will be graded, and your scores will be displayed on a leaderboard, both here and in the Deeplearning AI community. This will allow you to track your consistency, showcase your skills, and demonstrate your abilities beyond just earning a certification.
 
-### [First week](Data-Engineering/Introduction-to-data-engineering/week1/)
+### [First week](Introduction-to-data-engineering/week1/)
 
 ⚠ The main reason projects fail or qualified candidates are rejected is due to a lack of communication skills. Beginners often struggle with understanding requirements and articulating a plan that addresses business problems.
 
