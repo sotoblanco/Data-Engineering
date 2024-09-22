@@ -10,27 +10,9 @@ Each week, we will set specific goals and challenges to be completed. These chal
 
 ### First week
 
-Why did you join the course? Seriously, why? Sometimes, this question is more challenging than it seems. 90% of you might answer, "I want to improve my data engineering skills," or "I want to land my dream job in data engineering." But often, that's not your real reason.
+⚠ The main reason projects fail or qualified candidates are rejected is due to a lack of communication skills. Beginners often struggle with understanding requirements and articulating a plan that addresses business problems.
 
-Take a moment to ask yourself *why* five times before you settle on an answer. Only then will you uncover your true motivation. Feel free to post whatever makes you comfortable, but keep in mind that you're more likely to achieve your goals if you dig deep and get to the root of your "why."
-
-**Example:**
-- Why did you join the course?  
-  *Because I want to improve my data engineering skills.*
-- Why do you want to improve your data engineering skills?  
-  *Because I want to find a job in data engineering.*
-- Why do you want to find a job in data engineering?  
-  *Because it seems like a stable field...*
-
-You get the idea. This is the first challenge I want you to reflect on and answer.
-
----
-
-For your second challenge, I want you to **build your dream resume**—the one that, with your current knowledge, you believe will take you to where you want to be. Imagine a resume that would make you say, "This person is a genius!" Remember, this isn't your actual resume, but an ideal version—the one that would make it impossible for anyone to say no to you.
-
-After you complete the course, we’ll revisit this dream resume and see how close you've come, and what has changed.
-
-[This is my inspirational resume](https://docs.google.com/document/d/1XYbNwrMBB5xfgXc1Ktfs1RORqEyqyHcA/edit)
+☑ In the first week of the Data Engineering Specialization, Joe Reis 🤓 guides you through how good data engineers are wired to communicate effectively with stakeholders (downstream users), from gathering information to developing a plan, with the business at the core of the solution.
 
 ### Weekly Learning Approach:
 
@@ -57,6 +39,3 @@ The study group session will have four major components
 - **7 "Learning in Public" Links**
 - **GitHub Repository Link**
 - **Peer Question Answering** (bonus points)
-
-[First week homework](https://forms.gle/5TDhAScWKQM63rGF9)
-
